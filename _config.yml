@@ -1,7 +1,7 @@
 # Site settings
 title: Green Blog
 SEOTitle: 绿的博客 | Green Blog
-header-img: img/background
+header-img: img/background1.jpg
 email: 513773043@qq.com
 description: "Welcome to my world."
 keyword: "Green, Green Blog, 绿的博客, Green, 绿, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Be yourself."
-sidebar-avatar: /img/photo    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/photo.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
